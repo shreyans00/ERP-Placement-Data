@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* Style for each company name */
+.company-name {
+  font-weight: bold;
+  color: #333;
+}
+
+/* Style for each job profile */
+.job-profile {
+  color: #666;
+}
+
+/* Style for salary/CTC */
+.salary-ctc {
+  color: #999;
+}
+
+/* Style for the divider */
+.divider {
+  border-top: 1px solid #ccc;
+  margin: 10px 0;
+}
