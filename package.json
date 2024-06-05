@@ -1,5 +1,16 @@
 {
+  "name": "placement-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api.js",
+    "dev":"nodemon api.js"
+  },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2",
     "xmldom": "^0.6.0"
   }
 }
