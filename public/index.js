@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const displayData = (data) => {
     resultsTableBody.innerHTML = "";
     data.forEach((item, index) => {
-      const { companyName, jobProfile, salaryCtc } = item;
+      const { companyName, jobProfile, salaryCtc, startDate } = item;
 
       const row = document.createElement("tr");
 
@@ -32,10 +32,15 @@ document.addEventListener("DOMContentLoaded", async () => {
       salaryCtcCell.textContent = salaryCtc;
       salaryCtcCell.classList.add("salary-ctc");
 
+      const startDateCell = document.createElement("td");
+      startDateCell.textContent = startDate;
+      startDateCell.classList.add("start-date");
+
       row.appendChild(numberCell);
       row.appendChild(companyCell);
       row.appendChild(jobProfileCell);
       row.appendChild(salaryCtcCell);
+      row.appendChild(startDateCell);
 
       resultsTableBody.appendChild(row);
     });
@@ -48,6 +53,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const sortByCompanyButton = document.getElementById("sort-company");
   const sortBySalaryAscButton = document.getElementById("sort-salary-asc");
   const sortBySalaryDescButton = document.getElementById("sort-salary-desc");
+  const sortByStartDateButton = document.getElementById("sort-start-date");
 
   sortButton.addEventListener("click", () => {
     sortOptions.style.display =
@@ -80,6 +86,15 @@ document.addEventListener("DOMContentLoaded", async () => {
           parseFloat(b.salaryCtc.replace(/,/g, ""))
       )
       .reverse();
+    displayData(sortedData);
+    sortOptions.style.display = "none";
+  });
+
+  sortByStartDateButton.addEventListener("click", () => {
+    const sortedData = [...uniqueData].sort(
+      (a, b) =>
+        new Date(a.startDate).getTime() - new Date(b.startDate).getTime()
+    );
     displayData(sortedData);
     sortOptions.style.display = "none";
   });

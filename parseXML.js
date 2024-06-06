@@ -49,8 +49,11 @@ for (let i = 0; i < rows.length; i++) {
   // Extract salary/CTC
   const salaryCtc = cells[5].textContent.trim();
 
+  // Extract start date
+  const startDate = cells[9].textContent.trim().split(" ")[0];
+
   // Add to JSON array
-  jsonData.push({ companyName, jobProfile, salaryCtc });
+  jsonData.push({ companyName, jobProfile, salaryCtc, startDate });
 }
 
 // Write the JSON data to a file
