@@ -54,7 +54,7 @@ for (let i = 0; i < rows.length; i++) {
 }
 
 // Write the JSON data to a file
-const jsonFilePath = path.join(__dirname, "data.json");
+const jsonFilePath = path.join(__dirname, "public", "data.json");
 fs.writeFileSync(jsonFilePath, JSON.stringify(jsonData, null, 2), "utf-8");
 
 console.log("JSON data has been written to data.json");

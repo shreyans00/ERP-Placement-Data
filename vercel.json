@@ -6,6 +6,6 @@
   ],
   "routes": [
     { "src": "/data.json", "dest": "/data.json" },
-    { "src": "/", "dest": "/public/index.html" }
+    { "src": "/(.*)", "dest": "/public/$1" }
   ]
 }
