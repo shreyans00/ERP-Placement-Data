@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Display Data</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <h1>See the Placement Data of IIT Kharagpur '24</h1>
+    <div id="results-container">
+      <div id="sort-container">
+        <button id="sort-button">Sort By</button>
+        <div id="sort-options">
+          <a href="#" id="sort-company">Company Name (A-Z)</a>
+          <a href="#" id="sort-salary">Salary (High to Low)</a>
+        </div>
+      </div>
+      <table id="results-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Company Name</th>
+            <th>Job Profile</th>
+            <th>Salary/CTC</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Data will be appended here by JavaScript -->
+        </tbody>
+      </table>
+    </div>
+    <footer>Made with love ❤️</footer>
+    <button id="scroll-to-top" title="Go to top">⬆️</button>
+    <button id="scroll-to-bottom" title="Go to bottom">⬇️</button>
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
