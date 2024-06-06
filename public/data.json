@@ -55,6 +55,12 @@
   },
   {
     "companyName": "AGANITHA COGNITIVE SOLUTIONS PVT LTD",
+    "jobProfile": "Data engineer",
+    "salaryCtc": "1000000",
+    "startDate": "03-12-2023"
+  },
+  {
+    "companyName": "AGANITHA COGNITIVE SOLUTIONS PVT LTD",
     "jobProfile": "Data scientist",
     "salaryCtc": "1000000",
     "startDate": "03-12-2023"
@@ -62,12 +68,6 @@
   {
     "companyName": "AGANITHA COGNITIVE SOLUTIONS PVT LTD",
     "jobProfile": "Web applications developer",
-    "salaryCtc": "1000000",
-    "startDate": "03-12-2023"
-  },
-  {
-    "companyName": "AGANITHA COGNITIVE SOLUTIONS PVT LTD",
-    "jobProfile": "Data engineer",
     "salaryCtc": "1000000",
     "startDate": "03-12-2023"
   },
@@ -91,12 +91,6 @@
   },
   {
     "companyName": "AIRBUS GROUP INDIA",
-    "jobProfile": "Associate Engineer: System Installation",
-    "salaryCtc": "1000000",
-    "startDate": "04-10-2023"
-  },
-  {
-    "companyName": "AIRBUS GROUP INDIA",
     "jobProfile": "Associate Electrical System Engineer",
     "salaryCtc": "1000000",
     "startDate": "04-10-2023"
@@ -110,6 +104,12 @@
   {
     "companyName": "AIRBUS GROUP INDIA",
     "jobProfile": "Associate Engineer - Flight Operations Data Analyst",
+    "salaryCtc": "1000000",
+    "startDate": "04-10-2023"
+  },
+  {
+    "companyName": "AIRBUS GROUP INDIA",
+    "jobProfile": "Associate Engineer: System Installation",
     "salaryCtc": "1000000",
     "startDate": "04-10-2023"
   },
@@ -163,13 +163,13 @@
   },
   {
     "companyName": "Antino Labs",
-    "jobProfile": "Associate Software Developer",
+    "jobProfile": "Management Trainee",
     "salaryCtc": "800000",
     "startDate": "04-12-2023"
   },
   {
     "companyName": "Antino Labs",
-    "jobProfile": "Management Trainee",
+    "jobProfile": "Associate Software Developer",
     "salaryCtc": "800000",
     "startDate": "04-12-2023"
   },
@@ -217,7 +217,7 @@
   },
   {
     "companyName": "Aureustech Systems",
-    "jobProfile": "Associate Software Engineer (Fullstack)",
+    "jobProfile": "Associate Data Engineer",
     "salaryCtc": "600000",
     "startDate": "04-12-2023"
   },
@@ -235,7 +235,7 @@
   },
   {
     "companyName": "Aureustech Systems",
-    "jobProfile": "Associate Data Engineer",
+    "jobProfile": "Associate Software Engineer (Fullstack)",
     "salaryCtc": "600000",
     "startDate": "04-12-2023"
   },
@@ -289,6 +289,12 @@
   },
   {
     "companyName": "BPS TECH",
+    "jobProfile": "Market Analyst",
+    "salaryCtc": "600000",
+    "startDate": "09-12-2023"
+  },
+  {
+    "companyName": "BPS TECH",
     "jobProfile": "Derivative Trader",
     "salaryCtc": "600000",
     "startDate": "09-12-2023"
@@ -300,10 +306,16 @@
     "startDate": "09-12-2023"
   },
   {
-    "companyName": "BPS TECH",
-    "jobProfile": "Market Analyst",
-    "salaryCtc": "600000",
-    "startDate": "09-12-2023"
+    "companyName": "Brane Enterprises- NSL Hub",
+    "jobProfile": "DATA SCIENTIST",
+    "salaryCtc": "2000000",
+    "startDate": "03-12-2023"
+  },
+  {
+    "companyName": "Brane Enterprises- NSL Hub",
+    "jobProfile": "Associated Solution Leader Trainee  PaaS",
+    "salaryCtc": "2000000",
+    "startDate": "27-11-2023"
   },
   {
     "companyName": "Brane Enterprises- NSL Hub",
@@ -319,27 +331,15 @@
   },
   {
     "companyName": "Brane Enterprises- NSL Hub",
-    "jobProfile": "DATA SCIENTIST",
+    "jobProfile": "Associate Solution Leader - Blockchain Semantic",
     "salaryCtc": "2000000",
-    "startDate": "03-12-2023"
+    "startDate": "27-11-2023"
   },
   {
     "companyName": "Brane Enterprises- NSL Hub",
     "jobProfile": "2024 Associated Solution Leader Trainee  PaaS",
     "salaryCtc": "2000000",
     "startDate": "19-03-2024"
-  },
-  {
-    "companyName": "Brane Enterprises- NSL Hub",
-    "jobProfile": "Associated Solution Leader Trainee  PaaS",
-    "salaryCtc": "2000000",
-    "startDate": "27-11-2023"
-  },
-  {
-    "companyName": "Brane Enterprises- NSL Hub",
-    "jobProfile": "Associate Solution Leader - Blockchain Semantic",
-    "salaryCtc": "2000000",
-    "startDate": "27-11-2023"
   },
   {
     "companyName": "Broadridge Trading and Connectivity Solutions",
@@ -361,13 +361,13 @@
   },
   {
     "companyName": "Cambridge Technology",
-    "jobProfile": "Qlik",
+    "jobProfile": "IMS",
     "salaryCtc": "1200000",
     "startDate": "25-04-2024"
   },
   {
     "companyName": "Cambridge Technology",
-    "jobProfile": "IMS",
+    "jobProfile": "Qlik",
     "salaryCtc": "1200000",
     "startDate": "25-04-2024"
   },
@@ -427,14 +427,14 @@
   },
   {
     "companyName": "Cobblestone Energy",
-    "jobProfile": "Software Engineer",
-    "salaryCtc": "60000",
+    "jobProfile": "Graduate Software Engineer",
+    "salaryCtc": "55000",
     "startDate": "28-10-2023"
   },
   {
     "companyName": "Cobblestone Energy",
-    "jobProfile": "Graduate Software Engineer",
-    "salaryCtc": "55000",
+    "jobProfile": "Software Engineer",
+    "salaryCtc": "60000",
     "startDate": "28-10-2023"
   },
   {
@@ -451,26 +451,26 @@
   },
   {
     "companyName": "Cyfuture",
-    "jobProfile": "Cloud Support Engineer",
-    "salaryCtc": "1000000",
-    "startDate": "03-12-2023"
-  },
-  {
-    "companyName": "Cyfuture",
     "jobProfile": "New Pre-Sales Engineer",
     "salaryCtc": "1000000",
     "startDate": "03-12-2023"
   },
   {
-    "companyName": "Dashtoon",
-    "jobProfile": "Associate Product Manager",
-    "salaryCtc": "1400000",
-    "startDate": "25-11-2023"
+    "companyName": "Cyfuture",
+    "jobProfile": "Cloud Support Engineer",
+    "salaryCtc": "1000000",
+    "startDate": "03-12-2023"
   },
   {
     "companyName": "Dashtoon",
     "jobProfile": "Product Designer",
     "salaryCtc": "1500000",
+    "startDate": "25-11-2023"
+  },
+  {
+    "companyName": "Dashtoon",
+    "jobProfile": "Associate Product Manager",
+    "salaryCtc": "1400000",
     "startDate": "25-11-2023"
   },
   {
@@ -487,31 +487,25 @@
   },
   {
     "companyName": "Delta Electronics India Private Limited",
-    "jobProfile": "Power Electronics and Control",
-    "salaryCtc": "10,50,000",
-    "startDate": "06-12-2023"
-  },
-  {
-    "companyName": "Delta Electronics India Private Limited",
     "jobProfile": "Firmware and Hardware Design",
     "salaryCtc": "10,50,000",
     "startDate": "06-12-2023"
   },
   {
+    "companyName": "Delta Electronics India Private Limited",
+    "jobProfile": "Power Electronics and Control",
+    "salaryCtc": "10,50,000",
+    "startDate": "06-12-2023"
+  },
+  {
+    "companyName": "DENSO",
+    "jobProfile": "Software Engineer (Cloud, IoT)",
+    "salaryCtc": "6854615",
+    "startDate": "14-11-2023"
+  },
+  {
     "companyName": "DENSO",
     "jobProfile": "Research and Development for Computer vision / Image Synthesis",
-    "salaryCtc": "6854615",
-    "startDate": "14-11-2023"
-  },
-  {
-    "companyName": "DENSO",
-    "jobProfile": "Next Generation automotive SoC Research and Development",
-    "salaryCtc": "6854615",
-    "startDate": "14-11-2023"
-  },
-  {
-    "companyName": "DENSO",
-    "jobProfile": "Development of Information Traceability",
     "salaryCtc": "6854615",
     "startDate": "14-11-2023"
   },
@@ -523,7 +517,13 @@
   },
   {
     "companyName": "DENSO",
-    "jobProfile": "Software Engineer (Cloud, IoT)",
+    "jobProfile": "Development of Information Traceability",
+    "salaryCtc": "6854615",
+    "startDate": "14-11-2023"
+  },
+  {
+    "companyName": "DENSO",
+    "jobProfile": "Next Generation automotive SoC Research and Development",
     "salaryCtc": "6854615",
     "startDate": "14-11-2023"
   },
@@ -607,15 +607,15 @@
   },
   {
     "companyName": "EY GDS",
-    "jobProfile": "Senior",
-    "salaryCtc": "1200000",
-    "startDate": "30-05-2024"
-  },
-  {
-    "companyName": "EY GDS",
     "jobProfile": "Product Analyst",
     "salaryCtc": "1260000",
     "startDate": "27-11-2023"
+  },
+  {
+    "companyName": "EY GDS",
+    "jobProfile": "Senior",
+    "salaryCtc": "1200000",
+    "startDate": "30-05-2024"
   },
   {
     "companyName": "EY India",
@@ -655,14 +655,14 @@
   },
   {
     "companyName": "FINTOO",
-    "jobProfile": "Software Developer",
-    "salaryCtc": "13",
+    "jobProfile": "Wealth  Manager",
+    "salaryCtc": "12",
     "startDate": "03-12-2023"
   },
   {
     "companyName": "FINTOO",
-    "jobProfile": "Wealth  Manager",
-    "salaryCtc": "12",
+    "jobProfile": "Software Developer",
+    "salaryCtc": "13",
     "startDate": "03-12-2023"
   },
   {
@@ -697,15 +697,15 @@
   },
   {
     "companyName": "FUJITSU REASEARCH OF INDIA PRIVATE LIMITED",
-    "jobProfile": "Researcher- Predoc - AI",
-    "salaryCtc": "1800000",
-    "startDate": "17-10-2023"
-  },
-  {
-    "companyName": "FUJITSU REASEARCH OF INDIA PRIVATE LIMITED",
     "jobProfile": "Software Developer/ Engineer - High Performance Computing (HPC)",
     "salaryCtc": "1800000",
     "startDate": "16-10-2023"
+  },
+  {
+    "companyName": "FUJITSU REASEARCH OF INDIA PRIVATE LIMITED",
+    "jobProfile": "Researcher- Predoc - AI",
+    "salaryCtc": "1800000",
+    "startDate": "17-10-2023"
   },
   {
     "companyName": "FUJITSU REASEARCH OF INDIA PRIVATE LIMITED",
@@ -721,6 +721,12 @@
   },
   {
     "companyName": "Galytix Analytics Pvt. Ltd.",
+    "jobProfile": "Data Engineer",
+    "salaryCtc": "1800000",
+    "startDate": "04-12-2023"
+  },
+  {
+    "companyName": "Galytix Analytics Pvt. Ltd.",
     "jobProfile": "Software Engineer: Back-end",
     "salaryCtc": "1800000",
     "startDate": "04-12-2023"
@@ -730,18 +736,6 @@
     "jobProfile": "Software Engineer: Front-end",
     "salaryCtc": "1800000",
     "startDate": "04-12-2023"
-  },
-  {
-    "companyName": "Galytix Analytics Pvt. Ltd.",
-    "jobProfile": "Data Engineer",
-    "salaryCtc": "1800000",
-    "startDate": "04-12-2023"
-  },
-  {
-    "companyName": "Gan Studio",
-    "jobProfile": "Deep Learning Engineer",
-    "salaryCtc": "2000000",
-    "startDate": "03-12-2023"
   },
   {
     "companyName": "Gan Studio",
@@ -759,6 +753,12 @@
     "companyName": "Gan Studio",
     "jobProfile": "Backend Engineer",
     "salaryCtc": "1500000",
+    "startDate": "03-12-2023"
+  },
+  {
+    "companyName": "Gan Studio",
+    "jobProfile": "Deep Learning Engineer",
+    "salaryCtc": "2000000",
     "startDate": "03-12-2023"
   },
   {
@@ -781,12 +781,6 @@
   },
   {
     "companyName": "H2O.AI",
-    "jobProfile": "Customer Data Scientist",
-    "salaryCtc": "2150000",
-    "startDate": "10-01-2024"
-  },
-  {
-    "companyName": "H2O.AI",
     "jobProfile": "Technical Customer Manager",
     "salaryCtc": "1800000",
     "startDate": "10-01-2024"
@@ -798,10 +792,10 @@
     "startDate": "10-01-2024"
   },
   {
-    "companyName": "Havells India Ltd.",
-    "jobProfile": "IoT & Connectivity-AI/ML",
-    "salaryCtc": "1900000",
-    "startDate": "27-11-2023"
+    "companyName": "H2O.AI",
+    "jobProfile": "Customer Data Scientist",
+    "salaryCtc": "2150000",
+    "startDate": "10-01-2024"
   },
   {
     "companyName": "Havells India Ltd.",
@@ -812,6 +806,12 @@
   {
     "companyName": "Havells India Ltd.",
     "jobProfile": "Software Engineering",
+    "salaryCtc": "1900000",
+    "startDate": "27-11-2023"
+  },
+  {
+    "companyName": "Havells India Ltd.",
+    "jobProfile": "IoT & Connectivity-AI/ML",
     "salaryCtc": "1900000",
     "startDate": "27-11-2023"
   },
@@ -847,14 +847,14 @@
   },
   {
     "companyName": "HILABS INC.",
-    "jobProfile": "Associate Product Manager - US",
-    "salaryCtc": "103125",
+    "jobProfile": "Associate Product Manager",
+    "salaryCtc": "3293750",
     "startDate": "23-10-2023"
   },
   {
     "companyName": "HILABS INC.",
-    "jobProfile": "Associate Product Manager",
-    "salaryCtc": "3293750",
+    "jobProfile": "Associate Product Manager - US",
+    "salaryCtc": "103125",
     "startDate": "23-10-2023"
   },
   {
@@ -907,12 +907,6 @@
   },
   {
     "companyName": "ICICI LOMBARD GIC LTD.",
-    "jobProfile": "Senior Manager Actuarial Analyst",
-    "salaryCtc": "1270000",
-    "startDate": "24-11-2023"
-  },
-  {
-    "companyName": "ICICI LOMBARD GIC LTD.",
     "jobProfile": "Senior Manager - Strategy & Innovation",
     "salaryCtc": "1270000",
     "startDate": "24-11-2023"
@@ -925,13 +919,19 @@
   },
   {
     "companyName": "ICICI LOMBARD GIC LTD.",
-    "jobProfile": "Senior Developer",
+    "jobProfile": "Senior Manager Data Engineer",
     "salaryCtc": "1270000",
     "startDate": "24-11-2023"
   },
   {
     "companyName": "ICICI LOMBARD GIC LTD.",
-    "jobProfile": "Senior Manager Data Engineer",
+    "jobProfile": "Senior Manager Actuarial Analyst",
+    "salaryCtc": "1270000",
+    "startDate": "24-11-2023"
+  },
+  {
+    "companyName": "ICICI LOMBARD GIC LTD.",
+    "jobProfile": "Senior Developer",
     "salaryCtc": "1270000",
     "startDate": "24-11-2023"
   },
@@ -943,14 +943,14 @@
   },
   {
     "companyName": "IMC Limited",
-    "jobProfile": "Mechanical Engineer",
-    "salaryCtc": "824925",
+    "jobProfile": "Petroleum Engineer",
+    "salaryCtc": "970500",
     "startDate": "04-12-2023"
   },
   {
     "companyName": "IMC Limited",
-    "jobProfile": "Petroleum Engineer",
-    "salaryCtc": "970500",
+    "jobProfile": "Mechanical Engineer",
+    "salaryCtc": "824925",
     "startDate": "04-12-2023"
   },
   {
@@ -1057,13 +1057,13 @@
   },
   {
     "companyName": "MAHINDRA & MAHINDRA",
-    "jobProfile": "Graduate Engineer Trainees  CCM",
+    "jobProfile": "GET",
     "salaryCtc": "800000",
     "startDate": "13-02-2024"
   },
   {
     "companyName": "MAHINDRA & MAHINDRA",
-    "jobProfile": "GET",
+    "jobProfile": "Graduate Engineer Trainees  CCM",
     "salaryCtc": "800000",
     "startDate": "13-02-2024"
   },
@@ -1093,18 +1093,6 @@
   },
   {
     "companyName": "MEESHO",
-    "jobProfile": "Associate Business Manager- Trainee",
-    "salaryCtc": "2600000",
-    "startDate": "14-11-2023"
-  },
-  {
-    "companyName": "MEESHO",
-    "jobProfile": "Senior Associate- Growth",
-    "salaryCtc": "2600000",
-    "startDate": "14-11-2023"
-  },
-  {
-    "companyName": "MEESHO",
     "jobProfile": "Senior Associate - Finance",
     "salaryCtc": "2600000",
     "startDate": "14-11-2023"
@@ -1116,10 +1104,28 @@
     "startDate": "28-10-2023"
   },
   {
+    "companyName": "MEESHO",
+    "jobProfile": "Senior Associate- Growth",
+    "salaryCtc": "2600000",
+    "startDate": "14-11-2023"
+  },
+  {
+    "companyName": "MEESHO",
+    "jobProfile": "Associate Business Manager- Trainee",
+    "salaryCtc": "2600000",
+    "startDate": "14-11-2023"
+  },
+  {
     "companyName": "Midas Research & Development Center India Pvt Ltd",
     "jobProfile": "Technical Support Engineer",
     "salaryCtc": "862000",
     "startDate": "04-12-2023"
+  },
+  {
+    "companyName": "Miko.ai",
+    "jobProfile": "AI NLP Engineer",
+    "salaryCtc": "1000000",
+    "startDate": "07-12-2023"
   },
   {
     "companyName": "Miko.ai",
@@ -1134,12 +1140,6 @@
     "startDate": "07-12-2023"
   },
   {
-    "companyName": "Miko.ai",
-    "jobProfile": "AI NLP Engineer",
-    "salaryCtc": "1000000",
-    "startDate": "07-12-2023"
-  },
-  {
     "companyName": "MINDSPRINT",
     "jobProfile": "Data Engineer",
     "salaryCtc": "1518000",
@@ -1147,13 +1147,13 @@
   },
   {
     "companyName": "Minimalist",
-    "jobProfile": "Growth Manager",
+    "jobProfile": "Associate Product Manager",
     "salaryCtc": "2100000",
     "startDate": "27-11-2023"
   },
   {
     "companyName": "Minimalist",
-    "jobProfile": "Associate Product Manager",
+    "jobProfile": "Growth Manager",
     "salaryCtc": "2100000",
     "startDate": "27-11-2023"
   },
@@ -1171,25 +1171,25 @@
   },
   {
     "companyName": "National Payments Corporation of India (NPCI)",
-    "jobProfile": "IT ANALYST - BLOCKCHAIN",
-    "salaryCtc": "2006000",
-    "startDate": "19-11-2023"
-  },
-  {
-    "companyName": "National Payments Corporation of India (NPCI)",
     "jobProfile": "IT ANALYST - AI BOT",
     "salaryCtc": "2006000",
     "startDate": "19-11-2023"
   },
   {
+    "companyName": "National Payments Corporation of India (NPCI)",
+    "jobProfile": "IT ANALYST - BLOCKCHAIN",
+    "salaryCtc": "2006000",
+    "startDate": "19-11-2023"
+  },
+  {
     "companyName": "National Stock Exchange of India",
-    "jobProfile": "Technology Operations",
+    "jobProfile": "Regulatory Technology",
     "salaryCtc": "1350000",
     "startDate": "08-01-2024"
   },
   {
     "companyName": "National Stock Exchange of India",
-    "jobProfile": "Regulatory Technology",
+    "jobProfile": "Technology Operations",
     "salaryCtc": "1350000",
     "startDate": "08-01-2024"
   },
@@ -1201,26 +1201,26 @@
   },
   {
     "companyName": "NeenOpal Inc.",
-    "jobProfile": "Data Scientist",
-    "salaryCtc": "900000",
-    "startDate": "06-12-2023"
-  },
-  {
-    "companyName": "NeenOpal Inc.",
     "jobProfile": "Data Analyst",
     "salaryCtc": "720000",
     "startDate": "06-12-2023"
   },
   {
-    "companyName": "Neometrix Engineering Pvt Ltd",
-    "jobProfile": "Application Engineer",
-    "salaryCtc": "625000",
+    "companyName": "NeenOpal Inc.",
+    "jobProfile": "Data Scientist",
+    "salaryCtc": "900000",
     "startDate": "06-12-2023"
   },
   {
     "companyName": "Neometrix Engineering Pvt Ltd",
     "jobProfile": "Project Junior Engineer",
     "salaryCtc": "600000",
+    "startDate": "06-12-2023"
+  },
+  {
+    "companyName": "Neometrix Engineering Pvt Ltd",
+    "jobProfile": "Application Engineer",
+    "salaryCtc": "625000",
     "startDate": "06-12-2023"
   },
   {
@@ -1255,12 +1255,6 @@
   },
   {
     "companyName": "Niyo Solutions",
-    "jobProfile": "SDET-1",
-    "salaryCtc": "1500000",
-    "startDate": "17-11-2023"
-  },
-  {
-    "companyName": "Niyo Solutions",
     "jobProfile": "SDE-1",
     "salaryCtc": "1500000",
     "startDate": "17-11-2023"
@@ -1269,6 +1263,12 @@
     "companyName": "Niyo Solutions",
     "jobProfile": "Associate Product Manager",
     "salaryCtc": "1800000",
+    "startDate": "17-11-2023"
+  },
+  {
+    "companyName": "Niyo Solutions",
+    "jobProfile": "SDET-1",
+    "salaryCtc": "1500000",
     "startDate": "17-11-2023"
   },
   {
@@ -1297,13 +1297,13 @@
   },
   {
     "companyName": "OLA",
-    "jobProfile": "3DIC and Package Design",
+    "jobProfile": "SOC Physical Design",
     "salaryCtc": "3700000",
     "startDate": "09-01-2024"
   },
   {
     "companyName": "OLA",
-    "jobProfile": "Software Engineer -  AI based Automation of Cloud and Platform SW",
+    "jobProfile": "SoC Architecture",
     "salaryCtc": "3700000",
     "startDate": "09-01-2024"
   },
@@ -1321,79 +1321,19 @@
   },
   {
     "companyName": "OLA",
+    "jobProfile": "Software Engineer -  AI based Automation of Cloud and Platform SW",
+    "salaryCtc": "3700000",
+    "startDate": "09-01-2024"
+  },
+  {
+    "companyName": "OLA",
     "jobProfile": "Electrical Engineer",
     "salaryCtc": "3000000",
     "startDate": "06-11-2023"
   },
   {
     "companyName": "OLA",
-    "jobProfile": "Embedded Engineer I",
-    "salaryCtc": "3500000",
-    "startDate": "06-11-2023"
-  },
-  {
-    "companyName": "OLA",
-    "jobProfile": "SoC Architecture",
-    "salaryCtc": "3700000",
-    "startDate": "09-01-2024"
-  },
-  {
-    "companyName": "OLA",
-    "jobProfile": "SOC Frontend Methodology",
-    "salaryCtc": "3700000",
-    "startDate": "09-01-2024"
-  },
-  {
-    "companyName": "OLA",
-    "jobProfile": "SOC RTL Design and Microarchitecture",
-    "salaryCtc": "3700000",
-    "startDate": "09-01-2024"
-  },
-  {
-    "companyName": "OLA",
-    "jobProfile": "DFT Engineering",
-    "salaryCtc": "3700000",
-    "startDate": "09-01-2024"
-  },
-  {
-    "companyName": "OLA",
-    "jobProfile": "SOC Physical Design",
-    "salaryCtc": "3700000",
-    "startDate": "09-01-2024"
-  },
-  {
-    "companyName": "OLA",
-    "jobProfile": "SOC Backend Methodology",
-    "salaryCtc": "3700000",
-    "startDate": "09-01-2024"
-  },
-  {
-    "companyName": "OLA",
-    "jobProfile": "Digital Verification Engineering",
-    "salaryCtc": "3700000",
-    "startDate": "09-01-2024"
-  },
-  {
-    "companyName": "OLA",
-    "jobProfile": "Emulation & Prototyping Engineering",
-    "salaryCtc": "3700000",
-    "startDate": "09-01-2024"
-  },
-  {
-    "companyName": "OLA",
-    "jobProfile": "Platform Design Engineering",
-    "salaryCtc": "3700000",
-    "startDate": "09-01-2024"
-  },
-  {
-    "companyName": "OLA",
-    "jobProfile": "Infrastructure Engineer",
-    "salaryCtc": "3700000",
-    "startDate": "09-01-2024"
-  },
-  {
-    "companyName": "OLA",
-    "jobProfile": "Product Analyst",
+    "jobProfile": "Software Engineer - AL/ML",
     "salaryCtc": "3700000",
     "startDate": "09-01-2024"
   },
@@ -1405,7 +1345,67 @@
   },
   {
     "companyName": "OLA",
-    "jobProfile": "Software Engineer - AL/ML",
+    "jobProfile": "Product Analyst",
+    "salaryCtc": "3700000",
+    "startDate": "09-01-2024"
+  },
+  {
+    "companyName": "OLA",
+    "jobProfile": "Infrastructure Engineer",
+    "salaryCtc": "3700000",
+    "startDate": "09-01-2024"
+  },
+  {
+    "companyName": "OLA",
+    "jobProfile": "Platform Design Engineering",
+    "salaryCtc": "3700000",
+    "startDate": "09-01-2024"
+  },
+  {
+    "companyName": "OLA",
+    "jobProfile": "3DIC and Package Design",
+    "salaryCtc": "3700000",
+    "startDate": "09-01-2024"
+  },
+  {
+    "companyName": "OLA",
+    "jobProfile": "Emulation & Prototyping Engineering",
+    "salaryCtc": "3700000",
+    "startDate": "09-01-2024"
+  },
+  {
+    "companyName": "OLA",
+    "jobProfile": "Digital Verification Engineering",
+    "salaryCtc": "3700000",
+    "startDate": "09-01-2024"
+  },
+  {
+    "companyName": "OLA",
+    "jobProfile": "SOC Backend Methodology",
+    "salaryCtc": "3700000",
+    "startDate": "09-01-2024"
+  },
+  {
+    "companyName": "OLA",
+    "jobProfile": "SOC RTL Design and Microarchitecture",
+    "salaryCtc": "3700000",
+    "startDate": "09-01-2024"
+  },
+  {
+    "companyName": "OLA",
+    "jobProfile": "SOC Frontend Methodology",
+    "salaryCtc": "3700000",
+    "startDate": "09-01-2024"
+  },
+  {
+    "companyName": "OLA",
+    "jobProfile": "Embedded Engineer I",
+    "salaryCtc": "3500000",
+    "startDate": "06-11-2023"
+  },
+  {
+    "companyName": "OLA",
+    "jobProfile": "DFT Engineering",
     "salaryCtc": "3700000",
     "startDate": "09-01-2024"
   },
@@ -1435,19 +1435,7 @@
   },
   {
     "companyName": "OPTYM",
-    "jobProfile": "Software Engineer  Node.JS",
-    "salaryCtc": "2400000",
-    "startDate": "24-11-2023"
-  },
-  {
-    "companyName": "OPTYM",
     "jobProfile": "Software Engineer - Frontend",
-    "salaryCtc": "2400000",
-    "startDate": "24-11-2023"
-  },
-  {
-    "companyName": "OPTYM",
-    "jobProfile": "Software Engineer  Backend",
     "salaryCtc": "2400000",
     "startDate": "24-11-2023"
   },
@@ -1459,9 +1447,27 @@
   },
   {
     "companyName": "OPTYM",
+    "jobProfile": "Software Engineer  Node.JS",
+    "salaryCtc": "2400000",
+    "startDate": "24-11-2023"
+  },
+  {
+    "companyName": "OPTYM",
+    "jobProfile": "Software Engineer  Backend",
+    "salaryCtc": "2400000",
+    "startDate": "24-11-2023"
+  },
+  {
+    "companyName": "OPTYM",
     "jobProfile": "Full Stack Developer",
     "salaryCtc": "2400000",
     "startDate": "24-11-2023"
+  },
+  {
+    "companyName": "Oracle",
+    "jobProfile": "Member Technical Staff - 1",
+    "salaryCtc": "1778226",
+    "startDate": "06-06-2024"
   },
   {
     "companyName": "ORMAE",
@@ -1495,13 +1501,13 @@
   },
   {
     "companyName": "Perceptive Analytics Pvt. Ltd.",
-    "jobProfile": "Analyst - Visual Analytics",
+    "jobProfile": "Sales Consultant",
     "salaryCtc": "1350000",
     "startDate": "04-12-2023"
   },
   {
     "companyName": "Perceptive Analytics Pvt. Ltd.",
-    "jobProfile": "Sales Consultant",
+    "jobProfile": "Analyst - Visual Analytics",
     "salaryCtc": "1350000",
     "startDate": "04-12-2023"
   },
@@ -1537,14 +1543,14 @@
   },
   {
     "companyName": "Quasistatics Inc. (Ixana.ai)",
-    "jobProfile": "IC Design Engineer I (Analog/Digital)",
-    "salaryCtc": "3000000",
+    "jobProfile": "SoC Design Engineer I (Mixed-Signal)",
+    "salaryCtc": "3700000",
     "startDate": "17-10-2023"
   },
   {
     "companyName": "Quasistatics Inc. (Ixana.ai)",
-    "jobProfile": "SoC Design Engineer I (Mixed-Signal)",
-    "salaryCtc": "3700000",
+    "jobProfile": "IC Design Engineer I (Analog/Digital)",
+    "salaryCtc": "3000000",
     "startDate": "17-10-2023"
   },
   {
@@ -1561,13 +1567,13 @@
   },
   {
     "companyName": "ReachIvy.com",
-    "jobProfile": "Business Development- Full time",
+    "jobProfile": "Digital Marketing & SEO",
     "salaryCtc": "600000",
     "startDate": "29-01-2024"
   },
   {
     "companyName": "ReachIvy.com",
-    "jobProfile": "Digital Marketing & SEO",
+    "jobProfile": "Business Development- Full time",
     "salaryCtc": "600000",
     "startDate": "29-01-2024"
   },
@@ -1621,15 +1627,9 @@
   },
   {
     "companyName": "Shakti Pumps (India) Limited",
-    "jobProfile": "Manager - Electronics and Control (R&D)",
+    "jobProfile": "Manager - EV (R&D)",
     "salaryCtc": "900000",
     "startDate": "03-12-2023"
-  },
-  {
-    "companyName": "Shakti Pumps (India) Limited",
-    "jobProfile": "Quality - M.Tech - Assistant Manager, PhD. - Deputy Manager",
-    "salaryCtc": "1000000",
-    "startDate": "12-12-2023"
   },
   {
     "companyName": "Shakti Pumps (India) Limited",
@@ -1639,7 +1639,13 @@
   },
   {
     "companyName": "Shakti Pumps (India) Limited",
-    "jobProfile": "Manager - EV (R&D)",
+    "jobProfile": "Quality - M.Tech - Assistant Manager, PhD. - Deputy Manager",
+    "salaryCtc": "1000000",
+    "startDate": "12-12-2023"
+  },
+  {
+    "companyName": "Shakti Pumps (India) Limited",
+    "jobProfile": "Manager - Electronics and Control (R&D)",
     "salaryCtc": "900000",
     "startDate": "03-12-2023"
   },
@@ -1651,13 +1657,13 @@
   },
   {
     "companyName": "Simplability Private Limited",
-    "jobProfile": "Tech Sorcerer",
+    "jobProfile": "Field Innovation Architect",
     "salaryCtc": "840000",
     "startDate": "23-04-2024"
   },
   {
     "companyName": "Simplability Private Limited",
-    "jobProfile": "Field Innovation Architect",
+    "jobProfile": "Tech Sorcerer",
     "salaryCtc": "840000",
     "startDate": "23-04-2024"
   },
@@ -1675,13 +1681,7 @@
   },
   {
     "companyName": "Skyroot",
-    "jobProfile": "Integration",
-    "salaryCtc": "500000",
-    "startDate": "03-12-2023"
-  },
-  {
-    "companyName": "Skyroot",
-    "jobProfile": "Composite Manufacturing",
+    "jobProfile": "Test Fixtures & Mechanisms",
     "salaryCtc": "500000",
     "startDate": "03-12-2023"
   },
@@ -1699,25 +1699,7 @@
   },
   {
     "companyName": "Skyroot",
-    "jobProfile": "Test Fixtures & Mechanisms",
-    "salaryCtc": "500000",
-    "startDate": "03-12-2023"
-  },
-  {
-    "companyName": "Skyroot",
-    "jobProfile": "Mission Configuration",
-    "salaryCtc": "500000",
-    "startDate": "03-12-2023"
-  },
-  {
-    "companyName": "Skyroot",
-    "jobProfile": "Solid Propulsion",
-    "salaryCtc": "500000",
-    "startDate": "03-12-2023"
-  },
-  {
-    "companyName": "Skyroot",
-    "jobProfile": "Flight Mechanics",
+    "jobProfile": "Integration",
     "salaryCtc": "500000",
     "startDate": "03-12-2023"
   },
@@ -1735,15 +1717,45 @@
   },
   {
     "companyName": "Skyroot",
+    "jobProfile": "Cryo Engines",
+    "salaryCtc": "500000",
+    "startDate": "03-12-2023"
+  },
+  {
+    "companyName": "Skyroot",
+    "jobProfile": "Flight Mechanics",
+    "salaryCtc": "500000",
+    "startDate": "03-12-2023"
+  },
+  {
+    "companyName": "Skyroot",
+    "jobProfile": "Solid Propulsion",
+    "salaryCtc": "500000",
+    "startDate": "03-12-2023"
+  },
+  {
+    "companyName": "Skyroot",
     "jobProfile": "Avionics  Hardware/ Software/ Integration",
     "salaryCtc": "500000",
     "startDate": "03-12-2023"
   },
   {
     "companyName": "Skyroot",
-    "jobProfile": "Cryo Engines",
+    "jobProfile": "Mission Configuration",
     "salaryCtc": "500000",
     "startDate": "03-12-2023"
+  },
+  {
+    "companyName": "Skyroot",
+    "jobProfile": "Composite Manufacturing",
+    "salaryCtc": "500000",
+    "startDate": "03-12-2023"
+  },
+  {
+    "companyName": "SMFG India Credit Company Limited",
+    "jobProfile": "Management Trainee  Development",
+    "salaryCtc": "1500000",
+    "startDate": "05-12-2023"
   },
   {
     "companyName": "SMFG India Credit Company Limited",
@@ -1756,12 +1768,6 @@
     "jobProfile": "Management Trainee Application (BSG)",
     "salaryCtc": "1500000",
     "startDate": "07-12-2023"
-  },
-  {
-    "companyName": "SMFG India Credit Company Limited",
-    "jobProfile": "Management Trainee  Development",
-    "salaryCtc": "1500000",
-    "startDate": "05-12-2023"
   },
   {
     "companyName": "SparkCognition India Private Limited",
@@ -1813,14 +1819,14 @@
   },
   {
     "companyName": "SuperAGI",
-    "jobProfile": "AI Researcher",
-    "salaryCtc": "3400000",
+    "jobProfile": "ML Engineer",
+    "salaryCtc": "2800000",
     "startDate": "28-11-2023"
   },
   {
     "companyName": "SuperAGI",
-    "jobProfile": "ML Engineer",
-    "salaryCtc": "2800000",
+    "jobProfile": "AI Researcher",
+    "salaryCtc": "3400000",
     "startDate": "28-11-2023"
   },
   {
@@ -1831,8 +1837,20 @@
   },
   {
     "companyName": "Svaya Robotics Pvt Ltd",
+    "jobProfile": "Robotics Control System",
+    "salaryCtc": "1100000",
+    "startDate": "09-12-2023"
+  },
+  {
+    "companyName": "Svaya Robotics Pvt Ltd",
     "jobProfile": "Biomechanics Design Engineer",
     "salaryCtc": "1000000",
+    "startDate": "09-12-2023"
+  },
+  {
+    "companyName": "Svaya Robotics Pvt Ltd",
+    "jobProfile": "Embedded Developer",
+    "salaryCtc": "800000",
     "startDate": "09-12-2023"
   },
   {
@@ -1842,16 +1860,10 @@
     "startDate": "09-12-2023"
   },
   {
-    "companyName": "Svaya Robotics Pvt Ltd",
-    "jobProfile": "Robotics Control System",
-    "salaryCtc": "1100000",
-    "startDate": "09-12-2023"
-  },
-  {
-    "companyName": "Svaya Robotics Pvt Ltd",
-    "jobProfile": "Embedded Developer",
-    "salaryCtc": "800000",
-    "startDate": "09-12-2023"
+    "companyName": "Taiwan Semiconductor Manufacturing Company",
+    "jobProfile": "Analog/Mixed-mode Engineer",
+    "salaryCtc": "71064",
+    "startDate": "16-10-2023"
   },
   {
     "companyName": "Taiwan Semiconductor Manufacturing Company",
@@ -1872,20 +1884,14 @@
     "startDate": "16-10-2023"
   },
   {
-    "companyName": "Taiwan Semiconductor Manufacturing Company",
-    "jobProfile": "Analog/Mixed-mode Engineer",
-    "salaryCtc": "71064",
-    "startDate": "16-10-2023"
-  },
-  {
     "companyName": "TATA AIG GENERAL INSURANCE COMPANY LIMITED",
-    "jobProfile": "Auto Claims",
+    "jobProfile": "Auto Claims - Technical Coach",
     "salaryCtc": "1950000",
     "startDate": "27-11-2023"
   },
   {
     "companyName": "TATA AIG GENERAL INSURANCE COMPANY LIMITED",
-    "jobProfile": "Auto Claims - Technical Coach",
+    "jobProfile": "Auto Claims",
     "salaryCtc": "1950000",
     "startDate": "27-11-2023"
   },
@@ -1927,13 +1933,13 @@
   },
   {
     "companyName": "The eCEOs Sdn Bhd",
-    "jobProfile": "Data Scientist",
+    "jobProfile": "Full Stack Engineer",
     "salaryCtc": "100000",
     "startDate": "03-12-2023"
   },
   {
     "companyName": "The eCEOs Sdn Bhd",
-    "jobProfile": "Full Stack Engineer",
+    "jobProfile": "Data Scientist",
     "salaryCtc": "100000",
     "startDate": "03-12-2023"
   },
@@ -1951,13 +1957,13 @@
   },
   {
     "companyName": "TruckX Technologies Private Limited",
-    "jobProfile": "Backend Engineer",
+    "jobProfile": "Software Engineer",
     "salaryCtc": "1600000",
     "startDate": "03-12-2023"
   },
   {
     "companyName": "TruckX Technologies Private Limited",
-    "jobProfile": "Software Engineer",
+    "jobProfile": "Backend Engineer",
     "salaryCtc": "1600000",
     "startDate": "03-12-2023"
   },
@@ -1969,7 +1975,7 @@
   },
   {
     "companyName": "TuTr Hyperloop Private Limited",
-    "jobProfile": "Electrical Machines and Drives Engineer",
+    "jobProfile": "Embedded and Control System Engineer",
     "salaryCtc": "550000",
     "startDate": "15-05-2024"
   },
@@ -1981,7 +1987,7 @@
   },
   {
     "companyName": "TuTr Hyperloop Private Limited",
-    "jobProfile": "Embedded and Control System Engineer",
+    "jobProfile": "Electrical Machines and Drives Engineer",
     "salaryCtc": "550000",
     "startDate": "15-05-2024"
   },
@@ -1993,25 +1999,25 @@
   },
   {
     "companyName": "Unistring Tech Solutions (UTS)",
-    "jobProfile": "Staff Engineer / Application Engineer in Embedded Hardware",
-    "salaryCtc": "1800000",
-    "startDate": "03-12-2023"
-  },
-  {
-    "companyName": "Unistring Tech Solutions (UTS)",
     "jobProfile": "Staff Engineer / Application Engineer in DSP",
     "salaryCtc": "1800000",
     "startDate": "03-12-2023"
   },
   {
     "companyName": "Unistring Tech Solutions (UTS)",
-    "jobProfile": "Staff Engineer / Application Engineer in VLSI",
+    "jobProfile": "Staff Engineer / Application Engineer in Embedded Software",
     "salaryCtc": "1800000",
     "startDate": "03-12-2023"
   },
   {
     "companyName": "Unistring Tech Solutions (UTS)",
-    "jobProfile": "Staff Engineer / Application Engineer in Embedded Software",
+    "jobProfile": "Staff Engineer / Application Engineer in Embedded Hardware",
+    "salaryCtc": "1800000",
+    "startDate": "03-12-2023"
+  },
+  {
+    "companyName": "Unistring Tech Solutions (UTS)",
+    "jobProfile": "Staff Engineer / Application Engineer in VLSI",
     "salaryCtc": "1800000",
     "startDate": "03-12-2023"
   },
@@ -2053,7 +2059,13 @@
   },
   {
     "companyName": "WSP",
-    "jobProfile": "Graduate Engineer- Highways",
+    "jobProfile": "Graduate Cultural Heritage & Archaeology",
+    "salaryCtc": "650000",
+    "startDate": "04-12-2023"
+  },
+  {
+    "companyName": "WSP",
+    "jobProfile": "Graduate Engineer-Transport",
     "salaryCtc": "650000",
     "startDate": "04-12-2023"
   },
@@ -2065,13 +2077,7 @@
   },
   {
     "companyName": "WSP",
-    "jobProfile": "Graduate Cultural Heritage & Archaeology",
-    "salaryCtc": "650000",
-    "startDate": "04-12-2023"
-  },
-  {
-    "companyName": "WSP",
-    "jobProfile": "Graduate Engineer-Transport",
+    "jobProfile": "Graduate Engineer- Highways",
     "salaryCtc": "650000",
     "startDate": "04-12-2023"
   },
@@ -2095,13 +2101,13 @@
   },
   {
     "companyName": "Bert Labs Private Limited",
-    "jobProfile": "Research Engineer  Frontend Developer",
+    "jobProfile": "Research Engineer - Embedded Hardware",
     "salaryCtc": "1500000",
     "startDate": "11-01-2024"
   },
   {
     "companyName": "Bert Labs Private Limited",
-    "jobProfile": "Research Engineer - Embedded Hardware",
+    "jobProfile": "Research Engineer  Frontend Developer",
     "salaryCtc": "1500000",
     "startDate": "11-01-2024"
   },

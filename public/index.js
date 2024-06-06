@@ -91,10 +91,11 @@ document.addEventListener("DOMContentLoaded", async () => {
   });
 
   sortByStartDateButton.addEventListener("click", () => {
-    const sortedData = [...uniqueData].sort(
-      (a, b) =>
-        new Date(a.startDate).getTime() - new Date(b.startDate).getTime()
-    );
+    const sortedData = [...uniqueData].sort((a, b) => {
+      const [dayA, monthA, yearA] = a.startDate.split("-").map(Number);
+      const [dayB, monthB, yearB] = b.startDate.split("-").map(Number);
+      return yearA - yearB || monthA - monthB || dayA - dayB;
+    });
     displayData(sortedData);
     sortOptions.style.display = "none";
   });
