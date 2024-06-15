@@ -72,8 +72,10 @@ td {
 }
 
 th {
-  background-color: #f2f2f2;
   font-weight: bold;
+  font-size: 1.1em;
+  color: rgb(5, 113, 106);
+  background-color: rgba(12, 221, 240, 0.429);
 }
 
 tr:nth-child(even) {
@@ -82,11 +84,6 @@ tr:nth-child(even) {
 
 tr:hover {
   background-color: #f1f1f1;
-}
-
-th,
-td:first-child {
-  text-align: center;
 }
 
 .company-name {
