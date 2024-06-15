@@ -3,8 +3,15 @@ import jsonData from "../data.json" assert { type: "json" };
 document.addEventListener("DOMContentLoaded", async () => {
   const resultsTableBody = document.querySelector("#results-table tbody");
 
-  const response = await fetch("/data.json");
-  const jsonData = await response.json();
+  // Fetch the result data
+  const response = await fetch("/dataResult.json");
+  const resultData = await response.json();
+
+  // Create a map for quick lookup of results by company name
+  const resultMap = resultData.reduce((acc, item) => {
+    acc[item.companyName] = item.result;
+    return acc;
+  }, {});
 
   const uniqueData = Array.from(new Set(jsonData.map(JSON.stringify))).map(
     JSON.parse
@@ -36,11 +43,25 @@ document.addEventListener("DOMContentLoaded", async () => {
       startDateCell.textContent = startDate;
       startDateCell.classList.add("start-date");
 
+      const resultCell = document.createElement("td");
+
+      if (resultMap[companyName]) {
+        resultCell.innerHTML = '<span class="view-result">▶️</span>';
+        resultCell.addEventListener("click", () => {
+          const resultText = resultMap[companyName] || "No result available";
+          document.getElementById("modal-result").textContent = resultText;
+          document.getElementById("modal").style.display = "block";
+        });
+      } else {
+        resultCell.innerHTML = '<span class="no-result"></span>';
+      }
+
       row.appendChild(numberCell);
       row.appendChild(companyCell);
       row.appendChild(jobProfileCell);
       row.appendChild(salaryCtcCell);
       row.appendChild(startDateCell);
+      row.appendChild(resultCell);
 
       resultsTableBody.appendChild(row);
     });
@@ -106,5 +127,18 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   document.getElementById("scroll-to-bottom").addEventListener("click", () => {
     window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
+  });
+
+  // Close modal when the close button is clicked
+  document.getElementById("modal-close").addEventListener("click", () => {
+    document.getElementById("modal").style.display = "none";
+  });
+
+  // Close modal when clicking outside of the modal content
+  window.addEventListener("click", (event) => {
+    const modal = document.getElementById("modal");
+    if (event.target === modal) {
+      modal.style.display = "none";
+    }
   });
 });
